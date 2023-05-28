@@ -60,7 +60,7 @@ section {
   padding-top: 100px;
 }
 .card-produto {
-  background: white;
+  background: #fcfcfc;
   width: 550px;
   height: 450px;
   text-align: center;
